@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{FBE292E2-4E91-6F91-08E7-5D9AD0DE5F01}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SOS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
